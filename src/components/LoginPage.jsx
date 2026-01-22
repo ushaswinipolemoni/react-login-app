@@ -25,7 +25,7 @@ function LoginPage() {
 
     return (
         <div className="glass-card">
-            <h1 className="title">Welcome Back</h1>
+            <h1 className="title">Sign In</h1>
             <p className="subtitle">Sign in to continue to your account</p>
 
             {/* Social Login Buttons */}
